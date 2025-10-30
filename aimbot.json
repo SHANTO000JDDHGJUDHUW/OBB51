@@ -1,2 +1,6 @@
 {
-  aimbot
+  "aimbot": "",
+  "head": ,
+  "chest": ,
+  "bot": ["90","E0","80","30"]
+}
